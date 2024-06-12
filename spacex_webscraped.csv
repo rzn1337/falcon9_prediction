@@ -1,0 +1,299 @@
+Flight No.,Date,Time,Version Booster,Launch Site,Payload,Payload mass,Orbit,Customer,Launch outcome,Booster landing
+195,3,January,F9 B5♺B1060.15[23],CCSFS,,Unknown[e],SSO,Various,"Success
+",Success(ground pad)
+196,10,January,F9 B5♺B1076.2,CCSFS,OneWeb,"6,000",Polar,OneWeb,"Success
+",Success(ground pad)
+197,18,January,F9 B5♺B1077.2,CCSFS,USA-343,"4,352",MEO,USSF,"Success
+",Success(drone ship)
+198,19,January,F9 B5B1075.1,VSFB,Starlink Group 2–4,"15,000",LEO,SpaceX,"Success
+",Success(drone ship)
+199,26,January,F9 B5♺B1067.9,CCSFS,Starlink Group 5-2,"~17,400",LEO,SpaceX,"Success
+",Success(drone ship)
+200,31,January,F9 B5♺B1071.7[49],VSFB,Starlink Group 2–6,"~15,200",LEO,SpaceX,"Success
+",Success(drone ship)
+201,2,February,F9 B5♺B1069.5,KSC,Starlink Group 5-3,"16,500",LEO,SpaceX,"Success
+",Success(drone ship)
+202,7,February,F9 B5♺B1073.6[54],CCSFS,Amazonas Nexus,"4,146",GTO,Hispasat,"Success
+",Success(drone ship)
+203,12,February,F9 B5♺B1062.12[60],CCSFS,Starlink Group 5-4,"17,100",LEO,SpaceX,"Success
+",Success(drone ship)
+204,17,February,F9 B5♺B1063.9[63],VSFB,Starlink Group 2–5,"15,900",LEO,SpaceX,"Success
+",Success(drone ship)
+205,18,February,F9 B5♺B1077.3[65],CCSFS,Inmarsat-6 F2,"5,470",GTO,Inmarsat,"Success
+",Success(drone ship)
+206,27,February,F9 B5♺B1076.3[71],CCSFS,Starlink Group 6-1,"~15,300",LEO,SpaceX,"Success
+",Success(drone ship)
+207,2,March,F9 B5B1078.1,KSC,Crew-6,"~13,000",LEO,NASA,"Success
+",Success(drone ship)
+208,3,March,F9 B5♺B1061.12,VSFB,Starlink Group 2–7,"15,900",LEO,SpaceX,"Success
+",Success(drone ship)
+209,9,March,F9 B5♺B1062.13,CCSFS,OneWeb #17,"6,000",LEO,OneWeb,"Success
+",Success(ground pad)
+210,15,March,F9 B5♺B1073.7[83],KSC,SpaceX CRS-27,"2,852",LEO,NASA,"Success
+",Success(drone ship)
+211,17,March,F9 B5♺B1071.8,VSFB,Starlink Group 2–8,"~16,200",LEO,SpaceX,"Success
+",Success(drone ship)
+212,17,March,F9 B5♺B1069.6,CCSFS,SES-18 and SES-19,"~7,000",GTO,SES,"Success
+",Success(drone ship)
+213,24,March,F9 B5♺B1067.10,CCSFS,Starlink Group 5-5,"~17,400",LEO,SpaceX,"Success
+",Success(drone ship)
+214,29,March,F9 B5♺B1077.4,CCSFS,Starlink Group 5–10,"~17,400",LEO,SpaceX,"Success
+",Success(drone ship)
+215,2,April,F9 B5♺B1075.2,VSFB,Transport and Tracking Layer (Tranche 0A),Unknown,LEO,SDA,"Success
+",Success(ground pad)
+216,7,April,F9 B5♺B1076.4,CCSFS,Intelsat 40e,"~5,588",GTO,Intelsat,"Success
+",Success(drone ship)
+217,15,April,F9 B5♺B1063.10,VSFB,Transporter-7: (51 payloads Smallsat Rideshare),Unknown,SSO,Various,"Success
+",Success(ground pad)
+218,19,April,F9 B5♺B1073.8,CCSFS,Starlink Group 6-2,"~15,300",LEO,SpaceX,"Success
+",Success(drone ship)
+219,27,April,F9 B5♺B1061.13,VSFB,Starlink Group 3–5,"~14,100",SSO,SpaceX,"Success
+",Success(drone ship)
+220,28,April,F9 B5♺B1078.2[105],CCSFS,O3b mPOWER,"~4,100",MEO,SES,"Success
+",Success(drone ship)
+221,4,May,F9 B5♺B1069.7[114],CCSFS,Starlink Group 5–6,"~17,400",LEO,SpaceX,"Success
+",Success(drone ship)
+222,10,May,F9 B5♺B1075.3[117],VSFB,Starlink Group 2–9,"15,900",LEO,SpaceX,"Success
+",Success(drone ship)
+223,14,May,F9 B5♺B1067.11,CCSFS,Starlink Group 5–9,"~17,400",LEO,SpaceX,"Success
+",Success(drone ship)
+224,19,May,F9 B5♺B1076.5,CCSFS,Starlink Group 6-3,"~16,100",LEO,SpaceX,"Success
+",Success(drone ship)
+225,20,May,F9 B5♺B1063.11,VSFB,Iridium-NEXT,"~6,600",Polar,Iridium,"Success
+",Success(drone ship)
+226,21,May,F9 B5B1080.1,KSC,Ax-2,"~13,000",LEO,Axiom Space,"Success
+",Success(ground pad)
+227,27,May,F9 B5♺B1062.14,CCSFS,ArabSat 7B,"~4,500",GTO,Arabsat,"Success
+",Success(drone ship)
+228,31,May,F9 B5♺B1061.14,VSFB,Starlink Group 2–10,"~16,400",LEO,SpaceX,"Success
+",Success(drone ship)
+229,4,June,F9 B5♺B1078.3,CCSFS,Starlink Group 6-4,"~16,100",LEO,SpaceX,"Success
+",Success(drone ship)
+230,5,June,F9 B5♺B1077.5[138],KSC,SpaceX CRS-28,"~9,525",LEO,NASA,"Success
+",Success(drone ship)
+231,12,June,F9 B5♺B1073.9,CCSFS,Starlink Group 5–11,"~16,400",LEO,SpaceX,"Success
+",Success(drone ship)
+232,12,June,F9 B5♺B1071.9,VSFB,,Unknown[e],SSO,Various,"Success
+",Success(ground pad)
+233,18,June,F9 B5♺B1067.12[144],CCSFS,SATRIA,"~4,580",GTO,PT Pasifik Satelit Nusantara,"Success
+",Success(drone ship)
+234,22,June,F9 B5♺B1075.4[146],VSFB,Starlink Group 5–7,"~14,500",LEO,SpaceX,"Success
+",Success(drone ship)
+235,23,June,F9 B5♺B1069.8,CCSFS,Starlink Group 5–12,"~17,400",LEO,SpaceX,"Success
+",Success(drone ship)
+236,1,July,F9 B5♺B1080.2,CCSFS,Euclid,"~2,160",,ESA,"Success
+",Success(drone ship)
+237,7,July,F9 B5♺B1063.12[153],VSFB,Starlink Group 5–13,"~14,900",LEO,SpaceX,"Success
+",Success(drone ship)
+238,10,July,F9 B5♺B1058.16,CCSFS,Starlink Group 6-5,"~16,100",LEO,SpaceX,"Success
+",Success(drone ship)
+239,16,July,F9 B5♺B1060.16[157],CCSFS,Starlink Group 5–15,"~16,700",LEO,SpaceX,"Success
+",Success(drone ship)
+240,20,July,F9 B5♺B1071.10,VSFB,Starlink Group 6–15,"~12,000",LEO,SpaceX,"Success
+",Success(drone ship)
+241,24,July,F9 B5♺B1076.6,CCSFS,Starlink Group 6-6,"~16,100",LEO,SpaceX,"Success
+",Success(drone ship)
+242,28,July,F9 B5♺B1062.15,CCSFS,Starlink Group 6–7,"~16,100",LEO,SpaceX,"Success
+",Success(drone ship)
+243,3,August,F9 B5♺B1077.6,CCSFS,Galaxy 37,"~5,063",GTO,Intelsat,"Success
+",Success(drone ship)
+244,7,August,F9 B5♺B1078.4,CCSFS,Starlink Group 6–8,"~16,100",LEO,SpaceX,"Success
+",Success(drone ship)
+245,8,August,F9 B5♺B1075.5,VSFB,Starlink Group 6–20,"~12,000",LEO,SpaceX,"Success
+",Success(drone ship)
+246,11,August,F9 B5♺B1069.9,CCSFS,Starlink Group 6–9,"~16,100",LEO,SpaceX,"Success
+",Success(drone ship)
+247,17,August,F9 B5♺B1067.13,CCSFS,Starlink Group 6–10,"~16,100",LEO,SpaceX,"Success
+",Success(drone ship)
+248,22,August,F9 B5♺B1061.15,VSFB,Starlink Group 7-1,"~15,300",LEO,SpaceX,"Success
+",Success(drone ship)
+249,26,August,F9 B5B1081.1[182],KSC,Crew-7,"~13,000",LEO,NASA,"Success
+",Success(ground pad)
+250,27,August,F9 B5♺B1080.3,CCSFS,Starlink Group 6–11,"~16,100",LEO,SpaceX,"Success
+",Success(drone ship)
+251,1,September,F9 B5♺B1077.7,CCSFS,Starlink Group 6–13,"~16,100",LEO,SpaceX,"Success
+",Success(drone ship)
+252,2,September,F9 B5♺B1063.13,VSFB,Transport and Tracking Layer (Tranche 0B),Unknown,LEO,SDA,"Success
+",Success(ground pad)
+253,4,September,F9 B5♺B1073.10,KSC,Starlink Group 6–12,"~15,300",LEO,SpaceX,"Success
+",Success(drone ship)
+254,9,September,F9 B5♺B1076.7,CCSFS,Starlink Group 6–14,"~16,100",LEO,SpaceX,"Success
+",Success(drone ship)
+255,12,September,F9 B5♺B1071.11,VSFB,Starlink Group 7-2,"~15,300",LEO,SpaceX,"Success
+",Success(drone ship)
+256,16,September,F9 B5♺B1078.5,CCSFS,Starlink Group 6–16,"~16,100",LEO,SpaceX,"Success
+",Success(drone ship)
+257,20,September,F9 B5♺B1058.17,CCSFS,Starlink Group 6–17,"~16,100",LEO,SpaceX,"Success
+",Success(drone ship)
+258,24,September,F9 B5♺B1060.17,CCSFS,Starlink Group 6–18,"~16,100",LEO,SpaceX,"Success
+",Success(drone ship)
+259,25,September,F9 B5♺B1075.6,VSFB,Starlink Group 7-3,"~15,300",LEO,SpaceX,"Success
+",Success(drone ship)
+260,30,September,F9 B5♺B1069.10,CCSFS,Starlink Group 6–19,"~16,100",LEO,SpaceX,"Success
+",Success(drone ship)
+261,5,October,F9 B5♺B1076.8,CCSFS,Starlink Group 6–21,"~16,100",LEO,SpaceX,"Success
+",Success(drone ship)
+262,9,October,F9 B5♺B1063.14,VSFB,Starlink Group 7-4,"~15,300",LEO,SpaceX,"Success
+",Success(drone ship)
+263,13,October,F9 B5♺B1067.14,CCSFS,Starlink Group 6–22,"~16,100",LEO,SpaceX,"Success
+",Success(drone ship)
+264,18,October,F9 B5♺B1062.16,CCSFS,Starlink Group 6–23,"~16,100",LEO,SpaceX,"Success
+",Success(drone ship)
+265,21,October,F9 B5♺B1061.16,VSFB,Starlink Group 7-5,"~15,300",LEO,SpaceX,"Success
+",Success(drone ship)
+266,22,October,F9 B5♺B1080.4,CCSFS,Starlink Group 6–24,"~16,800",LEO,SpaceX,"Success
+",Success(drone ship)
+267,29,October,F9 B5♺B1075.7,VSFB,Starlink Group 7-6,"~16,100",LEO,SpaceX,"Success
+",Success(drone ship)
+268,30,October,F9 B5♺B1077.8,CCSFS,Starlink Group 6–25,"~16,800",LEO,SpaceX,"Success
+",Success(drone ship)
+269,4,November,F9 B5♺B1058.18,CCSFS,Starlink Group 6–26,"~16,800",LEO,SpaceX,"Success
+",Success(drone ship)
+270,8,November,F9 B5♺B1073.11,CCSFS,Starlink Group 6–27,"~16,800",LEO,SpaceX,"Success
+",Success(drone ship)
+271,10,November,F9 B5♺B1081.2,KSC,SpaceX CRS-29,"~9,525",LEO,NASA,"Success
+",Success(ground pad)
+272,11,November,F9 B5♺B1071.12,VSFB,,Unknown[e],SSO,Various,"Success
+",Success(ground pad)
+273,12,November,F9 B5♺B1076.9,CCSFS,O3b mPOWER,"~4,100",MEO,SES,"Success
+",Success(drone ship)
+274,18,November,F9 B5♺B1069.11,CCSFS,Starlink Group 6–28,"~16,800",LEO,SpaceX,"Success
+",Success(drone ship)
+275,20,November,F9 B5♺B1063.15,VSFB,Starlink Group 7-7,"~16,100",LEO,SpaceX,"Success
+",Success(drone ship)
+276,22,November,F9 B5♺B1067.15,CCSFS,Starlink Group 6–29,"~16,800",LEO,SpaceX,"Success
+",Success(drone ship)
+277,28,November,F9 B5♺B1062.17,CCSFS,Starlink Group 6–30,"~16,800",LEO,SpaceX,"Success
+",Success(drone ship)
+278,1,December,F9 B5♺B1061.17,VSFB,[229],~800,SSO,Republic of Korea Armed Forces,"Success
+",Success(ground pad)
+279,3,December,F9 B5♺B1078.6,CCSFS,Starlink Group 6–31,"~16,800",LEO,SpaceX,"Success
+",Success(drone ship)
+280,7,December,F9 B5♺B1077.9,CCSFS,Starlink Group 6–33,"~16,800",LEO,SpaceX,"Success
+",Success(drone ship)
+281,8,December,F9 B5♺B1071.13,VSFB,Starlink Group 7–8,"~16,100",LEO,SpaceX,"Success
+",Success(drone ship)
+282,19,December,F9 B5♺B1081.3,CCSFS,Starlink Group 6–34,"~16,800",LEO,SpaceX,"Success
+",Success(drone ship)
+283,23,December,F9 B5♺B1058.19,CCSFS,Starlink Group 6–32,"~16,800",LEO,SpaceX,"Success
+",Success(drone ship)
+284,24,December,F9 B5♺B1075.8,VSFB,SARah,"~3,600",SSO,German Intelligence Service,"Success
+",Success(ground pad)
+285,29,December,F9 B5♺B1069.12,CCSFS,Starlink Group 6–36,"~16,800",LEO,SpaceX,"Success
+",Success(drone ship)
+286,3,January,F9 B5B1082.1,VSFB,Starlink Group 7–9,"~16,800",LEO,SpaceX,"Success
+",Success(drone ship)
+287,3,January,F9 B5♺B1076.10,CCSFS,Ovzon-3,"1,800",GTO,Ovzon,"Success
+",Success(ground pad)
+288,7,January,F9 B5♺B1067.16,CCSFS,Starlink Group 6–35,"~17,100",LEO,SpaceX,"Success
+",Success(drone ship)
+289,14,January,F9 B5♺B1061.18,VSFB,Starlink Group 7–10,"~16,700",LEO,SpaceX,"Success
+",Success(drone ship)
+290,15,January,F9 B5♺B1073.12,CCSFS,Starlink Group 6–37,"~17,100",LEO,SpaceX,"Success
+",Success(drone ship)
+291,18,January,F9 B5♺B1080.5,KSC,Ax-3,"~13,000",LEO,Axiom Space,"Success
+",Success(ground pad)
+292,24,January,F9 B5♺B1063.16,VSFB,Starlink Group 7–11,"~16,700",LEO,SpaceX,"Success
+",Success(drone ship)
+293,29,January,F9 B5♺B1062.18,KSC,Starlink Group 6–38,"~17,100",LEO,SpaceX,"Success
+",Success(drone ship)
+294,29,January,F9 B5♺B1075.9,VSFB,Starlink Group 7–12,"~16,700",LEO,SpaceX,"Success
+",Success(drone ship)
+295,30,January,F9 B5♺B1077.10,CCSFS,CRS NG-20,"3,726",LEO,Northrop Grumman,"Success
+",Success(ground pad)
+296,8,February,F9 B5♺B1081.4,CCSFS,PACE,"1,694",SSO,NASA,"Success
+",Success(ground pad)
+297,10,February,F9 B5♺B1071.14,VSFB,Starlink Group 7–13,"~16,700",LEO,SpaceX,"Success
+",Success(drone ship)
+298,14,February,F9 B5♺B1078.7,CCSFS,SDA,Unknown,LEO,USSF,"Success
+",Success(ground pad)
+299,15,February,F9 B5♺B1060.18,KSC,IM-1,"1,931",TLI,NASA,"Success
+",Success(ground pad)
+300,15,February,F9 B5♺B1082.2,VSFB,Starlink Group 7–14,"~16,700",LEO,SpaceX,"Success
+",Success(drone ship)
+301,20,February,F9 B5♺B1067.17,CCSFS,Merah Putih 2 / Telkomsat HTS 113BT,"4,000",GTO,Telkom Indonesia,"Success
+",Success(drone ship)
+302,23,February,F9 B5♺B1061.19,VSFB,Starlink Group 7–15,"~16,700",LEO,SpaceX,"Success
+",Success(drone ship)
+303,25,February,F9 B5♺B1069.13,CCSFS,Starlink Group 6–39,"~17,500",LEO,SpaceX,"Success
+",Success(drone ship)
+304,29,February,F9 B5♺B1076.11,CCSFS,Starlink Group 6–40,"~17,100",LEO,SpaceX,"Success
+",Success(drone ship)
+305,4,March,F9 B5B1083.1,KSC,Crew-8,"~13,000",LEO,NASA,"Success
+",Success(ground pad)
+306,4,March,F9 B5♺B1081.5,VSFB,,Unknown[e],SSO,Various,"Success
+",Success(ground pad)
+307,4,March,F9 B5♺B1073.13,CCSFS,Starlink Group 6–41,"~17,100",LEO,SpaceX,"Success
+",Success(drone ship)
+308,10,March,F9 B5♺B1077.11,CCSFS,Starlink Group 6–43,"~17,100",LEO,SpaceX,"Success
+",Success(drone ship)
+309,11,March,F9 B5♺B1063.17,VSFB,Starlink Group 7–17,"~17,100",LEO,SpaceX,"Success
+",Success(drone ship)
+310,16,March,F9 B5♺B1062.19,KSC,Starlink Group 6–44,"~17,100",LEO,SpaceX,"Success
+",Success(drone ship)
+311,19,March,F9 B5♺B1075.10,VSFB,Starlink Group 7–16,"~16,100",LEO,SpaceX,"Success
+",Success(drone ship)
+312,21,March,F9 B5♺B1080.6,CCSFS,SpaceX CRS-30,"2,721",LEO,NASA,"Success
+",Success(ground pad)
+313,24,March,F9 B5♺B1060.19,KSC,Starlink Group 6–42,"~17,100",LEO,SpaceX,"Success
+",Success(drone ship)
+314,25,March,F9 B5♺B1078.8,CCSFS,Starlink Group 6–46,"~17,100",LEO,SpaceX,"Success
+",Success(drone ship)
+315,30,March,F9 B5♺B1076.12,KSC,Eutelsat 36D,"5,000",GTO,Eutelsat,"Success
+",Success(drone ship)
+316,31,March,F9 B5♺B1067.18,CCSFS,Starlink Group 6–45,"~17,100",LEO,SpaceX,"Success
+",Success(drone ship)
+317,2,April,F9 B5♺B1071.15,VSFB,Starlink Group 7–18,"~16,700",LEO,SpaceX,"Success
+",Success(drone ship)
+318,5,April,F9 B5♺B1069.14,CCSFS,Starlink Group 6–47,"~17,100",LEO,SpaceX,"Success
+",Success(drone ship)
+319,7,April,F9 B5♺B1081.6,VSFB,Starlink Group 8-1,"~16,800",LEO,SpaceX,"Success
+",Success(drone ship)
+320,7,April,F9 B5♺B1073.14,KSC,Bandwagon-1,Unknown[e],LEO,Various,"Success
+",Success(ground pad)
+321,10,April,F9 B5♺B1083.2,CCSFS,Starlink Group 6–48,"~17,100",LEO,SpaceX,"Success
+",Success(drone ship)
+322,11,April,F9 B5♺B1082.3,VSFB,WSF-M 1,"1,200",SSO,USSF,"Success
+",Success(ground pad)
+323,13,April,F9 B5♺B1062.20,CCSFS,Starlink Group 6–49,"~17,100",LEO,SpaceX,"Success
+",Success(drone ship)
+324,17,April,F9 B5♺B1077.12,KSC,Starlink Group 6–51,"~17,100",LEO,SpaceX,"Success
+",Success(drone ship)
+325,18,April,F9 B5♺B1080.7,CCSFS,Starlink Group 6–52,"~17,100",LEO,SpaceX,"Success
+",Success(drone ship)
+326,23,April,F9 B5♺B1078.9,CCSFS,Starlink Group 6–53,"~17,100",LEO,SpaceX,"Success
+",Success(drone ship)
+327,28,April,F9 B5♺B1060.20,KSC,Galileo,"1,600",MEO,ESA,"Success
+",No attempt
+328,28,April,F9 B5♺B1076.13,CCSFS,Starlink Group 6–54,"~17,100",LEO,SpaceX,"Success
+",Success(drone ship)
+329,2,May,F9 B5♺B1061.20,VSFB,WorldView Legion 1 & 2,"1,500",SSO,Maxar Technologies,"Success
+",Success(ground pad)
+330,3,May,F9 B5♺B1067.19,CCSFS,Starlink Group 6–55,"~17,100",LEO,SpaceX,"Success
+",Success(drone ship)
+331,6,May,F9 B5♺B1069.15,CCSFS,Starlink Group 6–57,"~17,100",LEO,SpaceX,"Success
+",Success(drone ship)
+332,8,May,F9 B5♺B1083.3,KSC,Starlink Group 6–56,"~17,100",LEO,SpaceX,"Success
+",Success(drone ship)
+333,10,May,F9 B5♺B1082.4,VSFB,Starlink Group 8-2,"~16,300",LEO,SpaceX,"Success
+",Success(drone ship)
+334,13,May,F9 B5♺B1073.15,CCSFS,Starlink Group 6–58,"~17,100",LEO,SpaceX,"Success
+",Success(drone ship)
+335,14,May,F9 B5♺B1063.18,VSFB,Starlink Group 8-7,"~16,300",LEO,SpaceX,"Success
+",Success(drone ship)
+336,18,May,F9 B5♺B1062.21,CCSFS,Starlink Group 6–59,"~17,100",LEO,SpaceX,"Success
+",Success(drone ship)
+337,22,May,F9 B5♺B1071.16,VSFB,Starshield,Unknown,LEO,Northrop Grumman,"Success
+",Success(drone ship)
+338,23,May,F9 B5♺B1080.8,CCSFS,Starlink Group 6–62,"~17,100",LEO,SpaceX,"Success
+",Success(drone ship)
+339,24,May,F9 B5♺B1077.13,KSC,Starlink Group 6–63,"~17,100",LEO,SpaceX,"Success
+",Success(drone ship)
+340,28,May,F9 B5♺B1078.10,CCSFS,Starlink Group 6–60,"~17,100",LEO,SpaceX,"Success
+",Success(drone ship)
+341,28,May,F9 B5♺B1081.7,VSFB,EarthCARE,"2,350",SSO,ESA,"Success
+",Success(ground pad)
+342,1,June,F9 B5♺B1076.14,CCSFS,Starlink Group 6–64,"~17,100",LEO,SpaceX,"Success
+",Success(drone ship)
+343,5,June,F9 B5♺B1067.20,CCSFS,Starlink Group 8–5,"~16,300",LEO,SpaceX,"Success
+",Success(drone ship)
